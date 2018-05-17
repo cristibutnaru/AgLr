@@ -138,8 +138,6 @@
 
     </table>
   
-    <a style="margin-left:450px;" href="harta.php"><h1>Vizualizare harta</h1></a>
-
 
 
     <p id="copyright">&copy; 2018 AgLr.com<p>

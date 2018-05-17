@@ -41,7 +41,7 @@
 		<h2 id="paragraf3">-informatiile pot fi importate;</h2>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5280.612048881959!2d27.38274318585684!3d47.14558830580248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sro!2sro!4v1525893963325" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 
 	<p id="copyright">&copy; 2018 AgLr.com<p>

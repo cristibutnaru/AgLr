@@ -35,28 +35,6 @@
 
 	<a id="header" href="Tabel.php">Vizualizare terenuri existente</a>
 	<a id="header2" href="Adaugare.php">Adaugare terenuri noi   </a>
-
-	<video style="margin-left:450px;margin-top: 120px;"width="420" height="340" autoplay>
-  <source src="class.mp4" type="video/mp4">
-  <source src="class.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	<p id="copyright">&copy; 2018 AgLr.com<p>
 
 	

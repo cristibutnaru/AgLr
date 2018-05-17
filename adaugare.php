@@ -69,8 +69,6 @@
 
 		<p id="copyright">&copy; 2018 AgLr.com<p>
 
-	
-
 
 	</body>
 
